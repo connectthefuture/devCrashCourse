@@ -59,6 +59,18 @@ body {
 .reveal .dark {
   color: #333;
 }
+
+.reveal .huge {
+  font-size: 6em;
+}
+
+.reveal .shadow {
+  text-shadow: #333 3px 3px 5px;
+}
+
+.reveal .strike {
+  text-decoration: line-through;
+}
 /*********************************************
  * OTHER
  *********************************************/
