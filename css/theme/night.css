@@ -71,6 +71,18 @@ body {
 .reveal .strike {
   text-decoration: line-through;
 }
+
+.reveal .red {
+  color: #ed2655;
+}
+
+.reveal .yellow {
+  color: #e6b064;
+}
+
+.reveal .green {
+  color: #70bf53;
+}
 /*********************************************
  * OTHER
  *********************************************/
